@@ -1,6 +1,6 @@
 # Sockeon — Dart & Flutter Client
 
-A lightweight, dependency-light client for the [Sockeon](https://sockeon.com)
+A lightweight, dependency-light client for the [Sockeon](https://sockeon.github.io)
 real-time framework. Sockeon speaks a tiny JSON-over-WebSocket protocol — every
 frame is a JSON object shaped `{"event": "<name>", "data": { ... }}` — and this
 package gives you an idiomatic, event-driven Dart API on top of it with
@@ -227,4 +227,4 @@ class _ChatScreenState extends State<ChatScreen> {
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Part of the [Sockeon](https://sockeon.com) project.
+MIT — see [LICENSE](LICENSE). Part of the [Sockeon](https://sockeon.github.io) project.

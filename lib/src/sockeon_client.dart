@@ -27,7 +27,7 @@ class SockeonSubscription {
   }
 }
 
-/// A Dart/Flutter client for the [Sockeon](https://sockeon.com) framework.
+/// A Dart/Flutter client for the [Sockeon](https://sockeon.github.io) framework.
 ///
 /// Sockeon speaks a tiny JSON-over-WebSocket protocol: every frame is a JSON
 /// object `{"event": "<name>", "data": { ... }}`. This client wraps a standard
