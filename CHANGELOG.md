@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- Docs: use `sockeon.github.io` instead of `sockeon.com` for project links.
+
 ## 1.0.0
 
 - Initial release of the Sockeon Dart/Flutter client.

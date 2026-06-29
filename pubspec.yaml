@@ -1,6 +1,6 @@
 name: sockeon
 description: Dart and Flutter client for the Sockeon real-time WebSocket framework, with event-based messaging, rooms, namespaces and auto-reconnect.
-version: 1.0.0
+version: 1.0.1
 homepage: https://sockeon.github.io
 repository: https://github.com/sockeon/flutter-client
 issue_tracker: https://github.com/sockeon/flutter-client/issues
